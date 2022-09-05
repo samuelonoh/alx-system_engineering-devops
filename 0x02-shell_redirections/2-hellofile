@@ -1,2 +1,2 @@
 #!/bin/bash
-echo /usr/bin/false/etc/passwd
+echo /etc/*/passwd
