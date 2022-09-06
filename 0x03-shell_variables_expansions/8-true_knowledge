@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "TRUEKNOWLEDGE\n" 128
+echo "TRUEKNOWLEDGE"\n 128
