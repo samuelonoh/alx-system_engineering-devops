@@ -1,1 +1,1 @@
-she is cool
+How i started my journey in ALX.
